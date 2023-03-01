@@ -4,7 +4,7 @@ I am a senior developer from Seville, Spain. I have worked on very diverse proje
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-arandam-181717?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arandam/)](https://www.linkedin.com/in/arandam/) [![Flick Badge](https://img.shields.io/badge/-aarandam-181717?logo=flickr&logoColor=white&link=https://www.flickr.com/photos/aarandam/)](https://www.flickr.com/photos/aarandam/) [![Youtube Badge](https://img.shields.io/badge/-alexwing-181717?logo=youtube&logoColor=darkred&link=https://www.youtube.com/@alex-wing/)](https://www.youtube.com/@alex-wing/) [![Gmail Badge](https://img.shields.io/badge/-alexwing@gmail.com-181717?logo=Gmail&logoColor=darkred&link=mailto:alexwing@gmail.com)](mailto:alexwing@gmail.com)
-[![Site Badge](https://img.shields.io/badge/-aaranda.es-181717?logo=home-assistant&logoColor=white&link=mailto:alexwing@gmail.com)](https://aaranda.es) 
+[![Site Badge](https://img.shields.io/badge/-aaranda.es-181717?logo=WordPress&logoColor=white&link=mailto:alexwing@gmail.com)](https://aaranda.es) 
 
 
 ![C#](https://img.shields.io/badge/-C%23-181717?logo=csharp) 
