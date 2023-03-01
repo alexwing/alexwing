@@ -30,3 +30,7 @@ I hope to continue developing my skills and knowledge on increasingly interestin
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alexwing.alexwing)
+ ![DONATE](https://img.shields.io/badge/-DONATE-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/sponsors/alexwing)
+
+
+
