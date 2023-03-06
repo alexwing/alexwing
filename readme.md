@@ -8,13 +8,17 @@ I am a senior developer from Seville, Spain. I have worked on very diverse proje
 
 
 ![C#](https://img.shields.io/badge/-C%23-181717?logo=csharp) 
+![Unity](https://img.shields.io/badge/-Unity-181717?logo=Unity&logoColor=white)
+![Oculus](https://img.shields.io/badge/-Oculus-181717?logo=Oculus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-181717?logo=PHP) 
-![Java](https://img.shields.io/badge/-Java-181717?logo=java)
+![Java](https://img.shields.io/badge/-Java-181717?logo=openjdk&logoColor=orange)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-181717?logo=SpringBoot)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-181717?logo=Node.js)
 ![React](https://img.shields.io/badge/-React-181717?logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-181717?logo=Angular&logoColor=darkred)
+![Jquery](https://img.shields.io/badge/-jQuery-181717?logo=jquery&logoColor=0769AD)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?logo=html5&logoColor=darkred)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?logo=bootstrap)
