@@ -16,6 +16,7 @@ I am a senior developer from Seville, Spain. I have worked on very diverse proje
 ![Java](https://img.shields.io/badge/-Java-181717?logo=openjdk&logoColor=orange)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-181717?logo=SpringBoot)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-181717?logo=Node.js)
+![Vue](https://img.shields.io/badge/-Vue-181717?logo=vue.js)
 ![React](https://img.shields.io/badge/-React-181717?logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-181717?logo=Angular&logoColor=darkred)
 ![Jquery](https://img.shields.io/badge/-jQuery-181717?logo=jquery&logoColor=0769AD)
