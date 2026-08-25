@@ -28,8 +28,6 @@ I am a senior developer from Seville, Spain. I have worked on very diverse proje
 ![Git](https://img.shields.io/badge/-Git-181717?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alexwing&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_title=true) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alexwing.alexwing)
 [![DONATE](https://img.shields.io/badge/-DONATE-blue?&logo=GitHub-Sponsors&logoColor=#EA4AAA&link=https://github.com/sponsors/alexwing)](https://github.com/sponsors/alexwing)
 
