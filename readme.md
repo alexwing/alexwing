@@ -20,7 +20,6 @@ I am a senior developer from Seville, Spain. I have worked on very diverse proje
 ![React](https://img.shields.io/badge/-React-181717?logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-181717?logo=Angular&logoColor=darkred)
 ![Jquery](https://img.shields.io/badge/-jQuery-181717?logo=jquery&logoColor=0769AD)
-![Phaser](https://img.shields.io/badge/-Phaser-181717?logo=phaser&logoColor=00D84F)
 ![Electron](https://img.shields.io/badge/-Electron-181717?logo=electron&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?logo=html5&logoColor=darkred)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?logo=css3&logoColor=blue)
